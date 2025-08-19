@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Interactable
+  - SfxAudioSource
+  - SimpleDialog
+  - PersonalizedDialog
+  - MainUICanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Solid
+  - Interactable
+  - Trash
+  - Hero
+  - Enemies
+  - Chekers
+  - Collactables
+  - CollidableEnemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background-1
+    uniqueID: 2586353101
+    locked: 0
+  - name: Background-2
+    uniqueID: 655059087
+    locked: 0
+  - name: Foreground-1
+    uniqueID: 369413151
+    locked: 0
+  - name: Foreground-2
+    uniqueID: 3726493359
+    locked: 0
+  - name: Creatures
+    uniqueID: 1753354291
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

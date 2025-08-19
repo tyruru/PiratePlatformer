@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df1dadcbe39f4e6f9c9e7cc1b23a4eed, type: 3}
+  m_Name: InventoryItems
+  m_EditorClassIdentifier: 
+  _collection:
+  - _id: Coin
+    _tags: 00000000
+    _icon: {fileID: -1103341901, guid: 7d513284c10ed4ab78e1d8708c140025, type: 3}
+  - _id: Key
+    _tags: 
+    _icon: {fileID: 21300000, guid: bb17d34a614d84bb699a43c56687e550, type: 3}
+  - _id: PerlProjectile
+    _tags: 000000000100000002000000
+    _icon: {fileID: 21300000, guid: ea1563bef60cb4c7ebd7a7b5d1b618ad, type: 3}
+  - _id: Sword
+    _tags: 000000000100000002000000
+    _icon: {fileID: 21300000, guid: a5772e7f425454e4fbd006887076bfdb, type: 3}
+  - _id: SmallHealthPotion
+    _tags: 0100000003000000
+    _icon: {fileID: -510406292, guid: 3ea0c4f26cfe041ab9cd4730142c482b, type: 3}
+  - _id: LargeHealthPotion
+    _tags: 0100000003000000
+    _icon: {fileID: 82381942, guid: 3ea0c4f26cfe041ab9cd4730142c482b, type: 3}
+  - _id: SpeedUpPotion
+    _tags: 010000000300000000000000
+    _icon: {fileID: -748028341, guid: 3ea0c4f26cfe041ab9cd4730142c482b, type: 3}
+  - _id: GreenGem
+    _tags: 00000000
+    _icon: {fileID: 21300000, guid: 257938c49158a4a21a0a5cc77cc79515, type: 3}

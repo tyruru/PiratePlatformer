@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 27c138e5e029146d8b655b9a9119a525, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0b559b10413ed41658c3f9bf78c74477, type: 3}
+  - {fileID: 21300000, guid: 159532405354b43d6a3a79539e02346a, type: 3}
+  - {fileID: 21300000, guid: b1ed48403bb2344edb60500ecaeaa3fb, type: 3}
+  - {fileID: 21300000, guid: 15c16680751aa41bfbcf889e36512cbb, type: 3}
+  - {fileID: 21300000, guid: 397b3dd038a8f455da8bf1ed7550101e, type: 3}
+  - {fileID: 21300000, guid: b18ecb612decb4cdb8d4410316dfa151, type: 3}
+  - {fileID: 21300000, guid: a4a16ed1d28f5499ba1a4aeb2ec1e705, type: 3}
+  - {fileID: 21300000, guid: d8eb11c2110844c1396855088ac59731, type: 3}
+  - {fileID: 21300000, guid: 31965393c483b4ddf8a75d772b5f2b82, type: 3}
+  - {fileID: 21300000, guid: ec2cd2c3873144689933119134074947, type: 3}
+  - {fileID: 21300000, guid: 02185df33888741ad8b1d0c2459cd332, type: 3}
+  - {fileID: 21300000, guid: df30e425fd4bb4b3597aa1754d3d6891, type: 3}
+  - {fileID: 21300000, guid: 4dae2e6535db44d289b13cfa9cfb5ef6, type: 3}
+  - {fileID: 7482667652216324306, guid: 9649d0d56d28c4dc089c24da32b83032, type: 3}
+  - {fileID: 21300000, guid: dc4d5608d1bd4493dae5d7d22292ede2, type: 3}
+  - {fileID: 21300000, guid: 743c4e181ccca422792f55506a186e57, type: 3}
+  - {fileID: 21300000, guid: 873cf348684384aa390d98797890f279, type: 3}
+  - {fileID: 21300000, guid: a250c758b31644f678159b2f7381e66b, type: 3}
+  - {fileID: 21300000, guid: 5c6666684ecb14521bcdb28c37664e50, type: 3}
+  - {fileID: 21300000, guid: 36b8ecf8438044bf392010beeac3bd1d, type: 3}
+  - {fileID: 21300000, guid: db94ed7902da040de9f8b619ea95382d, type: 3}
+  - {fileID: 21300000, guid: 395db00a53ce4467faec8dd8c2665d94, type: 3}
+  - {fileID: 21300000, guid: 32ceef1a6c89c466ab9d26ddd8300400, type: 3}
+  - {fileID: 21300000, guid: f18e172ae4ad1440c91ae334c26e1d6b, type: 3}
+  - {fileID: 21300000, guid: 48aeba5b734dc4251803f17935f960f4, type: 3}
+  - {fileID: 21300000, guid: 3e5adffbf20c84107a4eb5a48c258b3a, type: 3}
+  - {fileID: 21300000, guid: b65b980ca4cce4f41a829ce8d4be59e2, type: 3}
+  - {fileID: 21300000, guid: c561317c83e7f4170afcefe8c9b2e1dc, type: 3}
+  - {fileID: 21300000, guid: 3150765d41080419694a4c41a9857982, type: 3}
+  - {fileID: 21300000, guid: e2aab59d4d2c54cd7908323831db96ab, type: 3}
+  - {fileID: 21300000, guid: ab8cb5fd65ce94c1dbd63aa02a990ad2, type: 3}
+  - {fileID: 21300000, guid: 13f9be4e65ed9499e9cf1478c0fe40ad, type: 3}
+  - {fileID: 21300000, guid: 4af05ade1906d4aeca185fe98c00b4fa, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - hp-big
+  - slider-horizontal
+  - common-button-selected
+  - blue
+  - SmallBar
+  - papper
+  - green-box-widel
+  - green-box-large
+  - inventory-small
+  - menu
+  - common-button
+  - geen-box-small
+  - yellow-box-wide
+  - Square
+  - slider-horizontal-handle
+  - yellow-box-tall
+  - yellow-box-large
+  - common-button-pressed
+  - green-button
+  - inventory-wide
+  - inventory-tall
+  - yellow-button
+  - enemy-big
+  - close
+  - item-small
+  - red
+  - item-selection
+  - yellow-box-small
+  - yellow
+  - green
+  - green-box-tall
+  - inventory-large
+  - common-button-disabled
+  m_RenderDataMap: {}
+  m_Tag: UI
+  m_IsVariant: 0
